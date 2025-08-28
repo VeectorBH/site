@@ -88,7 +88,7 @@ const CTA: React.FC = () => {
                 <iframe
                   src="https://workbot.ntwsaas.app.br/null"
                   style={{ border: 'none', width: '100%', height: '600px' }}
-                  title="Workbot - Automatik Labs"
+                 title="Workbot - Netwix Labs"
                 />
               </div>
             </div>
