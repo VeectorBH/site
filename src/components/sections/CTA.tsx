@@ -87,7 +87,7 @@ const CTA: React.FC = () => {
               <div className="relative bg-dark-800/50 backdrop-blur-sm rounded-2xl border border-dark-700/50 hover:border-primary-500/30 transition-all duration-500 hover:shadow-xl hover:shadow-primary-500/10">
                 <iframe
   src="https://workbot.ntwsaas.app.br/netwix"
-                  style={{ border: 'none', width: '100%', height: '600px' }}
+  style="border: none; width: 100%; height: 600px"
   title="Workbot - Netwix Tecnologia"
 ></iframe>
               </div>
